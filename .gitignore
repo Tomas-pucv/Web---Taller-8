@@ -1,0 +1,5 @@
+# Dependencias (se reinstalan con npm install)
+node_modules/
+
+# Copia local del repositorio del curso (no es parte de la entrega)
+/-IngenieriaWebMovil2026-Paralelo1/
